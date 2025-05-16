@@ -1,0 +1,16 @@
+
+ul{
+  background-color: black;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-evenly;
+}
+li{
+  background-color: #4B3F0F;
+  display: inline;
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: white;
+}

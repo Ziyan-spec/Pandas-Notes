@@ -1,0 +1,39 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerBox{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  background-color: cadetblue;
+}
+#media {
+  height: 100px;
+  width: 100px;
+  background: darkblue;
+}
+
+@media(max-width: 370px){
+  #media{
+    background-color: green;
+    
+  }
+}
+@media(min-width: 600px) {
+  #media {
+    background-color: darkred;
+    
+  }
+}
