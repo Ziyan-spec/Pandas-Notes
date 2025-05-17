@@ -1,7 +1,7 @@
 # Web Development Basics Practice
 
 Welcome to my beginner web development practice repo!  
-This repository contains my hands-on exercises and mini-projects as I learn the fundamentals of **HTML**, **CSS**, and **JavaScript**.
+This repository contains my hands-on exercises as I learn the fundamentals of **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
